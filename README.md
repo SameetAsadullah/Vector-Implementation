@@ -11,5 +11,5 @@ My own `Templatized C++ Implementation` of Vector using `Microsoft Visual Studio
 - print()
 
 ### Operator Overloading
-- operator= (For `Updating/Inserting` value at given index)
+- operator= (For `Copying` vector)
 - operator[] (For `Accessing` the value at given index)
